@@ -14,8 +14,6 @@
 
 <div align="center">
  
-🔭 I'm not working on anything at the moment 
-
 🌱 I’m currently learning **JavaScript and Java**
 
 
