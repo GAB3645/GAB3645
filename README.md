@@ -32,5 +32,5 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=,discordjs,java,js,html,css,bootstrap,git,py,arduino,c,cs,cpp"/>
-    <img src="https://skillicons.dev/icons?i=windows,discord,vscode,github,html,linux,powershell,"
+    <img src="https://skillicons.dev/icons?i=windows,discord,vscode,github,linux,powershell,"
 </div>
