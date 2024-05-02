@@ -26,6 +26,6 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,discordjs,java,js,html,css,bootstrap,git,py,arduino,c,cs,cpp,nodejs"/>
-    <img src="https://skillicons.dev/icons?i=windows,discord,vscode,github,linux,powershell,mongodb,raspberrypi"
+    <img src="https://skillicons.dev/icons?i=,discordjs,java,js,html,css,bootstrap,py,arduino,c,cs,cpp,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=windows,discord,vscode,github,linux,git,powershell,mongodb,raspberrypi"
 </div>
