@@ -15,7 +15,7 @@
 
 <div align="center">
     
-🌱 I’m currently learning **JavaScript and Java**
+🌱 I’m currently learning **PHP and SQL**
 
 </div>
 
@@ -26,6 +26,6 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,discordjs,java,js,html,css,bootstrap,py,arduino,c,cs,cpp,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=,discordjs,java,js,html,css,bootstrap,py,arduino,c,cs,cpp,nodejs,php"/>
     <img src="https://skillicons.dev/icons?i=windows,discord,vscode,github,linux,git,powershell,mongodb,raspberrypi"
 </div>
